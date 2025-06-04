@@ -27,6 +27,9 @@ section {
 }
 
 input[type="date"] {
+  background-color: white;
+  color: black;
+  -webkit-text-fill-color: black;
   padding: 8px;
   margin-top: 5px;
   margin-right: 10px;
